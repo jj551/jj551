@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%25E9%2591%25AB-%25E7%25AC%25A6-05429722b%2F)
+![Linkedln](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%25E9%2591%25AB-%25E7%25AC%25A6-05429722b%2F)
 
 Here are some ideas to get you started:
 
