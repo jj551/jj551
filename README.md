@@ -13,6 +13,8 @@
 <p align="center">
   <samp>
     @ me on <a href="https://www.linkedin.com/in/%E9%91%AB-%E7%AC%A6-05429722b/">Linkedln</a><br><br>
-    <img src="https://imgur.com/Imgur.gif" width="240px" align="center">
+    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
   </samp>
 </p>
+
+- thanks kathy for the gif,best):
