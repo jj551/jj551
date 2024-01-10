@@ -17,4 +17,4 @@
   </samp>
 </p>
 
-- thanks kathy for the gif,best):
+- kathy for the gif,best):
