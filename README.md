@@ -6,10 +6,8 @@
   </samp>
 </p>
 
-- 🚨 : I'm a computer science , professional hacker, and tech startup, I focus on research and development in computer networks, data , robots, and artificial Intelligence.
+- 🚨 : focus on research and development in computer networks.
 - 👨‍💻 : Senior Software Engineer/Red Team
-- 📭 ：kkodalien@gmail.com
-- Do you like Customization Dev.
 
 <p align="center">
   <samp>
