@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    @ me on <a href="">Linkedln</a><br><br>
+    @ on
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
   </samp>
 </p>
