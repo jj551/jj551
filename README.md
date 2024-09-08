@@ -7,9 +7,6 @@
 </p>
 
 ###
-an innovative computer science engineer with a bachelor's degree in engineering from XiDian University of Electronic Science and Technology .
-
-###
 with past technical experience proving my expertise in R&D, data, and development, I am excited to take on a variety of new engineering challenges.
 
 ###
