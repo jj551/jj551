@@ -7,10 +7,7 @@
 </p>
 
 ###
-with past technical experience proving my expertise in R&D, data, and development, I am excited to take on a variety of new engineering challenges.
-
-###
-continuously expanding technological innovation and project innovation is my goal.
+. killer Process
 
 ### 
 software design, engineering management,Reliability test.
