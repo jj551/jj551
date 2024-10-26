@@ -7,7 +7,8 @@
 </p>
 
 ###
-. killer Process
+
+“process management”
 
 ### 
 software design, engineering management,Reliability test.
